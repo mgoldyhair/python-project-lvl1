@@ -6,5 +6,3 @@ def welcome_user():
     print('Hello,{}!'.format(name))
 
 
-if __name__ == '__welcome_user__':
-    welcome_user()
