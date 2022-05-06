@@ -7,7 +7,8 @@ def main():
 
 if __name__ == '__main__':
     main()
-    welcome_user()
+
+welcome_user()    
 
 
   

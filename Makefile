@@ -4,7 +4,6 @@ install:
 
 brain-games:
 	poetry run brain-games 
-	poetry run welcome-user
 
 build:
 	poetry build
@@ -14,4 +13,13 @@ publish:
 
 package-install:
 	python3 -m pip install --user dist/*.whl
+
+package-uninstall:
+	python3 pip uninstall hexlet-code
+
+remove dist:
+	rm -r dist
+
+package-force-reinstall:
+	python3 -m pip install --force-reinstall --user dist/*.whl
 
