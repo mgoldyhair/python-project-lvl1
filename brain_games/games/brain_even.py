@@ -1,10 +1,8 @@
 from random import randint
+from brain_games.games.logic import name
 
 
 def brain_even():
-    print('Welcome to the Brain Games!')
-    name = input('May I have your name? ')
-    print('Hello,{}!'.format(name))
     print('Answer "yes" if the number is even, otherwise answer "no".')
     i = 0
     while i < 3:

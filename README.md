@@ -4,3 +4,4 @@
 [![my workflow](https://github.com/mgoldyhair/python-project-lvl1/actions/workflows/myworkflow.yml/badge.svg)](https://github.com/mgoldyhair/python-project-lvl1/actions/workflows/myworkflow.yml)
 [![asciicast](https://asciinema.org/a/508933.svg)](https://asciinema.org/a/508933)
 [![asciicast](https://asciinema.org/a/510522.svg)](https://asciinema.org/a/510522)
+[![asciicast](https://asciinema.org/a/510692.svg)](https://asciinema.org/a/510692)
