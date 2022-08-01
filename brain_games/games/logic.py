@@ -8,3 +8,11 @@ def get_name():
     return name
 name = get_name()
 
+def hello():
+    print('Hello, {}!'.format(name))
+
+def congrats():
+    print('Congratulations, {}!'.format(name))
+
+
+
